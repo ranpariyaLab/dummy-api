@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "age":"10",
+      "population":1000
+    },
+    {
+      "age":"20",
+      "population":500
+    },
+    {
+      "age":"30",
+      "population":2000
+    },
+    {
+      "age":"40",
+      "population":1500
+    },
+    {
+      "age":"50",
+      "population":2200
+    },
+    {
+      "age":"60",
+      "population":3000
+    },
+    {
+      "age":"61-70",
+      "population":3000
+    },
+    {
+      "age":">70",
+      "population":2000
+    }
+  ]
+}
