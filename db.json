@@ -2,15 +2,15 @@
   "data": [
     {
       "age":"1 - 30",
-      "population":1000
+      "population":45
     },
     {
-      "age":"31-60",
-      "population":700
+      "age":"31 - 60",
+      "population":35
     },
     {
-      "age":"<61",
-      "population":2000
+      "age":"> 61",
+      "population":20
     }
   ]
 }
